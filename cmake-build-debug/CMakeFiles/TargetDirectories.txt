@@ -1,0 +1,3 @@
+C:/Users/zerta/CLionProjects/OSI_Lab_10/cmake-build-debug/CMakeFiles/OSI_Lab_10.dir
+C:/Users/zerta/CLionProjects/OSI_Lab_10/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/zerta/CLionProjects/OSI_Lab_10/cmake-build-debug/CMakeFiles/rebuild_cache.dir
